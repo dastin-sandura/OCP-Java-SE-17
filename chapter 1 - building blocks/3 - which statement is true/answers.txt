@@ -1,0 +1,7 @@
+A. Bunny is a class - YES
+B. bun is a class - NO it is a variable which can hold reference to objects of class Bunny
+C. main is a class - NO it is a name of method
+D. Bunny is a reference to an object - NO it is a class of which type objects can be created
+E. bun is a reference to an object - YES is is a variable which can hold refernece to an object
+F. main is a reference to an object - NO this is a method
+G. The main() method doesn't run because the parameter name is incorrect - NO the parameter name can by any legal name while the param type must be String[]
