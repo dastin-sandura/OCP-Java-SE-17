@@ -1,0 +1,7 @@
+A - yes
+B - yes
+C - no
+D - yes
+E - no
+F - yes
+G - false
